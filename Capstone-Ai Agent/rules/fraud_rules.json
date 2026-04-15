@@ -1,0 +1,50 @@
+[
+  {
+    "rule_id": "R001",
+    "description": "Amount > ₹1,00,000 in a single transaction",
+    "risk_weight": 7,
+    "category": "High Value"
+  },
+  {
+    "rule_id": "R002",
+    "description": "Transaction time between 12 AM and 4 AM",
+    "risk_weight": 4,
+    "category": "Unusual Time"
+  },
+  {
+    "rule_id": "R003",
+    "description": "More than 5 transactions from same account within 10 minutes",
+    "risk_weight": 7,
+    "category": "High Frequency"
+  },
+  {
+    "rule_id": "R004",
+    "description": "Transaction country is not account's home country",
+    "risk_weight": 7,
+    "category": "Location Anomaly"
+  },
+  {
+    "rule_id": "R005",
+    "description": "New device/IP not seen before",
+    "risk_weight": 5,
+    "category": "Device Anomaly"
+  },
+  {
+    "rule_id": "R006",
+    "description": "Merchant category = 'Gambling' or 'Crypto Exchange'",
+    "risk_weight": 6,
+    "category": "High Risk Merchant"
+  },
+  {
+    "rule_id": "R007",
+    "description": "Transaction amount exactly matches a previously flagged amount",
+    "risk_weight": 7,
+    "category": "Historical Pattern"
+  },
+  {
+    "rule_id": "R008",
+    "description": "Account age < 30 days with high-value transaction",
+    "risk_weight": 7,
+    "category": "New Account Anomaly"
+  }
+]

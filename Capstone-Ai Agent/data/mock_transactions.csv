@@ -1,0 +1,51 @@
+transaction_id,account_id,amount,timestamp,merchant_name,merchant_category,transaction_country,account_home_country,device_id,account_age_days,is_new_device,prior_flagged_amounts,transactions_last_10min,historical_outcome
+TXNF6A86992,ACC1160,153879.71,2023-10-05 19:15:00,Amazon,Retail,India,India,DEV775,6,False,,1,Fraud
+TXNEC0F847B,ACC2537,9960.37,2023-10-01 21:34:00,Gambling,Gambling,India,India,DEV6817,985,True,,1,Fraud
+TXN9271786C,ACC9901,14153.19,2023-10-06 14:08:00,Crypto Exchange,Crypto Exchange,India,India,DEV956,675,False,14153.19,2,Fraud
+TXN5C87A890,ACC6457,901.94,2023-10-03 02:13:00,Spotify,Gambling,India,India,DEV987,637,False,,0,Legitimate
+TXND9973278,ACC5669,1570.84,2023-10-04 20:18:00,Local Grocery,Retail,India,India,DEV373,712,False,,1,Legitimate
+TXNA88E5F18,ACC9080,7626.7,2023-10-02 12:39:00,Netflix,Retail,India,India,DEV668,479,False,,2,Legitimate
+TXNA15B62C6,ACC5522,70993.16,2023-10-04 08:41:00,Spotify,Retail,India,India,DEV158,2,False,,0,Fraud
+TXN9FDABE1E,ACC6930,3844.8,2023-10-04 15:39:00,Amazon,Retail,India,India,DEV351,825,False,,0,Legitimate
+TXNAC006E91,ACC9249,1645.39,2023-10-06 09:03:00,Reliance Digital,Retail,India,India,DEV845,500,False,,2,Legitimate
+TXN7C00D063,ACC7251,8287.65,2023-10-03 11:22:00,Reliance Digital,Retail,India,India,DEV499,493,False,,0,Legitimate
+TXNAF73DA96,ACC1041,7367.88,2023-10-05 23:05:00,Local Grocery,Retail,UAE,India,DEV157,836,False,,2,Fraud
+TXNE3B53FCD,ACC1452,9875.48,2023-10-06 09:49:00,Local Grocery,Retail,India,India,DEV811,318,False,,0,Legitimate
+TXN826799D2,ACC2179,7988.55,2023-10-06 07:09:00,Amazon,Retail,India,India,DEV559,722,False,,0,Legitimate
+TXN92FC343E,ACC9701,8923.54,2023-10-06 13:21:00,Local Grocery,Retail,India,India,DEV502,490,False,,0,Legitimate
+TXN0422A02C,ACC7827,4158.11,2023-10-07 05:10:00,Netflix,Retail,India,India,DEV854,570,False,,1,Legitimate
+TXN7E150035,ACC4626,2848.45,2023-10-06 14:46:00,Spotify,Retail,India,India,DEV351,315,False,,0,Legitimate
+TXN5AADE38E,ACC4119,8718.01,2023-10-01 18:17:00,Spotify,Retail,India,India,DEV164,642,False,,2,Legitimate
+TXN230515C9,ACC9165,6688.14,2023-10-04 06:54:00,Crypto Exchange,Crypto Exchange,Singapore,India,DEV796,715,False,,2,Fraud
+TXN37A84091,ACC9667,5849.72,2023-10-02 12:19:00,Local Grocery,Gambling,India,India,DEV206,545,False,,1,Legitimate
+TXN6F917F8C,ACC1034,4525.05,2023-10-03 09:16:00,Uber,Retail,India,India,DEV873,598,False,,0,Legitimate
+TXNC05131C0,ACC3187,4034.22,2023-10-02 09:20:00,Reliance Digital,Retail,India,India,DEV771,600,False,,1,Legitimate
+TXN91A89B80,ACC4066,7159.96,2023-10-02 06:53:00,Reliance Digital,Retail,India,India,DEV774,828,False,,1,Legitimate
+TXN1A912055,ACC2704,4478.55,2023-10-06 19:32:00,Netflix,Retail,India,India,DEV229,338,False,,1,Legitimate
+TXN270D675C,ACC8522,7352.89,2023-10-04 03:59:00,Reliance Digital,Retail,India,India,DEV983,188,False,,2,Legitimate
+TXN3D2B599E,ACC8177,6835.23,2023-10-01 18:45:00,Amazon,Retail,India,India,DEV606,532,False,,2,Legitimate
+TXN42E0467C,ACC7468,6506.35,2023-10-04 11:25:00,Zomato,Retail,India,India,DEV955,467,False,,1,Legitimate
+TXN22DA552D,ACC7226,3212.81,2023-10-05 23:34:00,Crypto Exchange,Crypto Exchange,India,India,DEV6341,745,True,,1,Fraud
+TXN4FE60464,ACC4532,7151.49,2023-10-06 06:53:00,Gambling,Gambling,India,India,DEV802,150,False,,1,Legitimate
+TXNC03419F0,ACC4616,3354.94,2023-10-06 18:39:00,Reliance Digital,Retail,India,India,DEV123,511,False,,7,Fraud
+TXN8CBD8219,ACC7431,7236.57,2023-10-02 01:23:00,Crypto Exchange,Crypto Exchange,India,India,DEV764,684,False,,2,Fraud
+TXN338CCF8E,ACC6478,6152.8,2023-10-06 10:57:00,Netflix,Retail,India,India,DEV558,569,False,,1,Legitimate
+TXNEC5D622A,ACC1143,8874.52,2023-10-08 01:10:00,Amazon,Retail,India,India,DEV126,988,False,,1,Legitimate
+TXN2EB5A56B,ACC7200,33226.12,2023-10-04 14:56:00,Flipkart,Retail,India,India,DEV478,266,False,33226.12,2,Fraud
+TXN2E8DC3E9,ACC7841,15418.05,2023-10-01 12:20:00,Local Grocery,Retail,India,India,DEV879,691,False,15418.05,0,Fraud
+TXNA2A62E21,ACC7632,4649.36,2023-10-05 15:21:00,Uber,Retail,India,India,DEV671,686,False,,2,Legitimate
+TXNA30C710F,ACC3909,5794.55,2023-10-06 02:48:00,Crypto Exchange,Crypto Exchange,India,India,DEV718,543,False,,12,Fraud
+TXNC6E65CAF,ACC9423,5897.5,2023-10-05 16:42:00,Uber,Retail,India,India,DEV169,870,False,,0,Legitimate
+TXN2A794F8B,ACC1703,4281.6,2023-10-07 07:32:00,Gambling,Gambling,India,India,DEV963,774,False,,1,Legitimate
+TXN811702E5,ACC1110,6131.37,2023-10-05 20:53:00,Crypto Exchange,Crypto Exchange,India,India,DEV133,792,False,,0,Legitimate
+TXN31EB7206,ACC9098,9901.5,2023-10-04 14:55:00,Netflix,Retail,India,India,DEV806,929,False,,1,Legitimate
+TXN6D4ECA29,ACC2995,8372.52,2023-10-03 20:27:00,Zomato,Retail,India,India,DEV231,486,False,,0,Legitimate
+TXN41AA6E92,ACC3166,216132.84,2023-10-08 06:07:00,Flipkart,Retail,India,India,DEV539,891,False,,2,Fraud
+TXN895B54BD,ACC3028,4670.88,2023-10-07 08:05:00,Zomato,Retail,India,India,DEV6901,507,True,,0,Fraud
+TXNC47654A2,ACC5778,8151.39,2023-10-03 06:10:00,Local Grocery,Retail,India,India,DEV100,651,False,,0,Legitimate
+TXN8D91E7AD,ACC4010,1638.8,2023-10-03 13:46:00,Zomato,Retail,India,India,DEV174,291,False,,0,Legitimate
+TXN3E717E0F,ACC1703,5699.65,2023-10-05 11:38:00,Flipkart,Retail,India,India,DEV197,273,False,,0,Legitimate
+TXNEC8F392E,ACC8052,293488.24,2023-10-03 20:45:00,Local Grocery,Retail,India,India,DEV498,655,False,,0,Fraud
+TXN7A6BAC0A,ACC8593,6244.23,2023-10-07 17:37:00,Netflix,Retail,India,India,DEV161,223,False,,0,Legitimate
+TXN62B94773,ACC2810,2418.82,2023-10-06 06:46:00,Crypto Exchange,Crypto Exchange,India,India,DEV408,195,False,,1,Legitimate
+TXN69E6D641,ACC8353,8558.17,2023-10-02 14:06:00,Spotify,Retail,India,India,DEV238,514,False,,0,Legitimate
